@@ -1,8 +1,8 @@
 {
-	"name": "ZiaRein",
+	"name": "kurumi",
 	"version": "1.0.6",
-	"description": "A simple Facebook Messenger Bot By ZiaRein",
-	"main": "ZiaRein.js",
+	"description": "A simple Facebook Messenger Bot By cypruspro21k",
+	"main": "kurumi.js",
 	"scripts": {
 		"start": "node index.js",
 		"login": "node login",
@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ZiaRein/ZiaReinBypass/issues"
+		"url": "https://github.com/ppcat123/Kurumibypass/issues"
 	},
 	"keywords": [
 		"bot",
@@ -22,12 +22,12 @@
 		"spermlord",
 		"miraipr0ject"
 	],
-	"author": "Zia Rein",
+	"author": "cyprus jake pacoy",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/ZiaRein/ZiaReinBypass/issues"
+		"url": "https://github.com/ppcat123/Kurumibypass/issues"
 	},
-	"homepage": "https://github.com/ZiaRein/ZiaReinBypass/issues",
+	"homepage": "https://github.com/ppcat123/Kurumibypass/issues",
 	"dependencies": {
 		"@miraipr0ject/assets": "",
 		"@replit/database": "^2.0.2",
